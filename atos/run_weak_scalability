@@ -1,0 +1,7 @@
+./run_benchmark.sh 319 8
+./run_benchmark.sh 639 32
+./run_benchmark.sh 1279 128
+./run_benchmark.sh 1999 320
+./run_benchmark.sh 2559 512
+./run_benchmark.sh 3999 1248
+./run_benchmark.sh 7999 5008
